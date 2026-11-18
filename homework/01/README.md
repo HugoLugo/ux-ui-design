@@ -21,4 +21,4 @@ The main assumption to investigate is whether easy access to digital records wou
 
 ## FigJam Board
 
-[Exotic Pet Keeper – Homework 01](https://www.figma.com/board/6I7wrzfuIR9g13EXScV030/Exotic-Pet-Keeper?node-id=0-1&t=SYBqPQMTvMrLnCaI-1)
+[Exotic Pet Keeper – Homework 01](https://www.figma.com/board/YKp2cy9cap9fMYPlS8s9SE/Exotic-Pet-Keeper---Homework-1?node-id=0-1&p=f&t=jU07LsvUfjkXwHTn-0)
