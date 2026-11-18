@@ -31,6 +31,6 @@ These findings remain provisional and would require validation with real users.
 
 ## FigJam Board
 
-[Exotic Pet Keeper – Homework 02](https://www.figma.com/board/6I7wrzfuIR9g13EXScV030/Exotic-Pet-Keeper)
+[Exotic Pet Keeper – Homework 02](https://www.figma.com/board/YKp2cy9cap9fMYPlS8s9SE/Exotic-Pet-Keeper?node-id=0-1&p=f&t=KhXSPoEhHRtFRIi1-0)
 
 The Homework 2 area contains the research plan, interview guide, simulated interviews, affinity map, insights, persona, and user journey.
